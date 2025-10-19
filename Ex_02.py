@@ -1,0 +1,21 @@
+pilha = []
+
+pilha.append(5)
+pilha.append(3)
+pilha.pop()
+pilha.append(2)
+pilha.append(8)
+pilha.pop()
+pilha.pop()
+pilha.append(9)
+pilha.append(1)
+pilha.pop()
+pilha.append(7)
+pilha.append(6)
+pilha.pop()
+pilha.pop()
+pilha.append(4)
+pilha.pop()
+pilha.pop()
+
+print(pilha)

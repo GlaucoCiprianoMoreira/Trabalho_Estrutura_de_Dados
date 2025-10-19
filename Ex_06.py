@@ -1,0 +1,21 @@
+fila = []
+
+fila.append(5)
+fila.append(3)
+fila.pop(0)
+fila.append(2)
+fila.append(8)
+fila.pop(0)
+fila.pop(0)
+fila.append(9)
+fila.append(1)
+fila.pop(0)
+fila.append(7)
+fila.append(6)
+fila.pop(0)
+fila.pop(0)
+fila.append(4)
+fila.pop(0)
+fila.pop(0)
+
+print(fila)
